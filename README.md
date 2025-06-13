@@ -1,1 +1,1 @@
-# MOVIE_RATING_PREDICTION
+Movie rating prediction is a machine learning task that aims to forecast how users might rate a movie based on past data like user preferences, movie features, and viewing history. Using Python and libraries like pandas, scikit-learn, and possibly deep learning frameworks, we can build models that l
